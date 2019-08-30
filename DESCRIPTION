@@ -1,0 +1,12 @@
+Package: bookdownPkgTest
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Francesca",
+           family = "Vitalini",
+           role = c("aut", "cre"),
+           email = "francesca.vitalini@mirai-solutions.com")
+Description: What the package does (one paragraph).
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
