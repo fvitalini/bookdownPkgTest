@@ -7,7 +7,7 @@
 get_date_time()
 }
 \value{
-string with date and time
+character string with date and time
 }
 \description{
 use Sys.time()
